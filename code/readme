@@ -1,0 +1,4 @@
+The code is written for the arduino framework. 
+
+It uses the LiquidCrystal, PID and max6675 libraries. 
+The PID values are really experimental and should be adjusted with the PID Autotune library. 
