@@ -3,6 +3,9 @@
 #include <max6675.h>
 
 /*
+Written by github.com/petl, peter@traunmueller.net, 21.08.2016
+
+ *PINOUT:
  * A0--analog IN
  * 9 --SSR OUT
  * 
