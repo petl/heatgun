@@ -3,7 +3,7 @@
 This project is a controller box for a really cheap heatgun I bought from ebay: http://www.ebay.com/itm/401129852165 .
 It comes with an 8 pin 'DIN-style' microphone connector (http://www.vetco.net/catalog/product_info.php?products_id=6559), the pinout is on the bottom. 
 
-I will add a bill of materials when I've got the time, it is mostly finished. 
+I've added a bill of materials (BOM), most of the parts can be obtained on ebay for a fraction of the price. 
 
 To get a feeling for the box take a look at the photos. 
 
