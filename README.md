@@ -17,4 +17,6 @@ Pinout:
 7: Heating element
 8: Heating element
 
+The heating element is specified as 85 Ohm and has been measured as 83 Ohm (cold). 
+
 Heatgun project, arduino code, eagle schematics,..
